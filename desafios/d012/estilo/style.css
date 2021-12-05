@@ -68,7 +68,11 @@ section.imagem > p{
     background-color: rgba(32, 31, 31, 0.438);
 }
 
-
+footer address{
+    color: rgb(138, 11, 11);
+    text-align: center;
+}
+    
 
 /* footer{
     padding-top: 10vh;  
